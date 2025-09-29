@@ -88,6 +88,7 @@ Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 
 | Title                                                                                                                            | Author(s)      |
 | :------------------------------------------------------------------------------------------------------------------------------- | :------------  |
+| [Understanding Many-Worlds: A Beginner's Guide](https://maxdesalle.com/understanding-many-worlds/)                               | Maxime Desalle |
 | [Fungibility in quantum mechanics](https://conjecturesandrefutations.com/2015/04/04/fungibility-in-quantum-mechanics/)           | Alan Forester  |
 | [Measurement is theory-laden](https://conjecturesandrefutations.com/2013/08/26/measurement-is-theory-laden-part-3/)              | Alan Forester  |
 | [Tunnelling](https://conjecturesandrefutations.com/2014/11/19/tunnelling/)                                                       | Alan Forester  |
@@ -97,7 +98,6 @@ Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 | [The Critical Rationalist blog: The Multiverse](https://thecriticalrationalist.weebly.com/the-multiverse.html)                   | Sam Kuypers    |
 | [Many-Worlds Interpretation of Quantum Mechanics](https://plato.stanford.edu/entries/qm-manyworlds/)                             | Stanford       |
 | [Why The Many-worlds Formulation Of Quantum Mechanics Is Probably Correct][probably-correct]                                     | Sean Carroll   |
-| [Understanding Many-Worlds: A Beginner's Guide](https://maxdesalle.com/understanding-many-worlds/)                               | Maxime Desalle |
 
 ### Books
 
